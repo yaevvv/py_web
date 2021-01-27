@@ -1,0 +1,7 @@
+All data for docker containers
+in /tmp
+Task didn't finished - script
+for Terraform (main.tf) need to re-create
+- copy files to new instance
+- install docker & docker-compose
+- run docker-compose up -d in dir with files
